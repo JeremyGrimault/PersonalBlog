@@ -38,7 +38,10 @@
 
 .home-info .entry-content {
     -webkit-line-clamp: unset;
-    text-align: justify ;
+}
+
+.home-info .entry-content-img {
+    border-radius: 50%;
 }
 
 .post-entry {
