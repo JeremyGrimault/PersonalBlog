@@ -30,6 +30,13 @@
     font-size: 16px;
     -webkit-line-clamp: 3;
     text-align: justify;
+    img {
+        display: block;
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50%;
+    }
 }
 
 .first-entry .entry-footer {
