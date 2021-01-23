@@ -32,16 +32,13 @@
     text-align: justify;
 }
 
-.first-entry .entry-content-img {
-    border-radius: 50%;
-}
-
 .first-entry .entry-footer {
     font-size: 14px
 }
 
 .home-info .entry-content {
     -webkit-line-clamp: unset;
+    text-align: justify;
 }
 
 .post-entry {
