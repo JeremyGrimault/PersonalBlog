@@ -1,6 +1,6 @@
 ---
 title: "C'est en forgeant que l'on devient forgeron"
-date: 2020-09-15T11:30:03+00:00
+date: 2021-01-24T11:30:03+00:00
 weight: 1
 aliases: ["/first"]
 tags: ["La Forge", "Intelligence Artificielle", "Product Management"]
