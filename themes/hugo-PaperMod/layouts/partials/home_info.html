@@ -1,11 +1,11 @@
 {{- with $.Site.Params.homeInfoParams }}
 <article class="first-entry home-info">
-    <header class="entry-header">
-        <h2>{{- .Title | markdownify }}</h2>
-    </header>
     <section class="entry-image">
         <p>{{- .Image | markdownify }}</p>
     </section>
+    <header class="entry-header">
+        <h2>{{- .Title | markdownify }}</h2>
+    </header>
     <section class="entry-content">
         <p>{{- .Content | markdownify }}</p>
     </section>
