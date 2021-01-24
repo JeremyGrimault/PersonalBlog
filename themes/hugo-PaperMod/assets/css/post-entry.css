@@ -36,6 +36,12 @@
     font-size: 14px
 }
 
+.home-info .entry-image img {
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .home-info .entry-content {
     -webkit-line-clamp: unset;
     text-align: justify;

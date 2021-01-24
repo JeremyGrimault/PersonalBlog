@@ -3,6 +3,9 @@
     <header class="entry-header">
         <h2>{{- .Title | markdownify }}</h2>
     </header>
+    <section class="entry-image">
+        <p>{{- .Image | markdownify }}</p>
+    </section>
     <section class="entry-content">
         <p>{{- .Content | markdownify }}</p>
     </section>
