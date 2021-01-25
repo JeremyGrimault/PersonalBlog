@@ -23,7 +23,7 @@ comments: false
 
 # Pourquoi ce site ? 
 
-À [La Forge](https://www.la-forge.ai/) nous concevons et développons des produits d'Intelligence Artificielle autour de valeurs qui nous sont chères : Do , Impact, Share. Nous concevons, développons, forgeons des produits. C'est sur cette promesse que j'ai suivi Christophe Tricot aux prémices de La Forge. 
+À [La Forge](https://www.la-forge.ai/) nous concevons et développons des produits d'Intelligence Artificielle autour de valeurs qui nous sont chères : Do, Impact, Share. Nous concevons, développons, forgeons des produits. C'est sur cette promesse que j'ai suivi Christophe Tricot aux prémices de La Forge. 
 
 L'histoire a commencé simplement. Christophe m'a dit " j'ai besoin d'un product guy, ça te tente ?" J'ai accepté et rejoint l'aventure en parallèle de mon master specialisé à SKEMA. Depuis j'apprends, j'affine ma connaissance du management produit appliqué à l'IA, et mes convictions. En tant que Product Manager je suis de plus en plus animé par deux questions : 
 * qu’est-ce qui fait un bon produit d’IA ? 
@@ -35,7 +35,7 @@ En bon doer, je me suis lancé le défi de partager cette réflexion ici. Mes co
 
 ## Impact
 
-Je veux amener les product managers, les entrepreneurs, les porteurs de produits, les développers, les data scientistes, les cogniticiens et les product designers à discuter pour comprendre ce qui fait un bon produit d'IA et une bonne squad produit. Comment mesurer cet impact ? Je commencerai par mesurer l'attractivité de ce produit en nombre d'utilisateurs uniques.  
+Je veux amener les product managers, les entrepreneurs, les porteurs de produits, les développeurs, les data scientistes, les cogniticiens et les product designers à discuter pour comprendre ce qui fait un bon produit d'IA et une bonne squad produit. Comment mesurer cet impact ? Je commencerai par mesurer l'attractivité de ce produit en nombre d'utilisateurs uniques.  
 
 ## Share
 
