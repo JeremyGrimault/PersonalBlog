@@ -11,13 +11,13 @@ TocOpen: false #si true, la table des matières est ouverte par défaut
 draft: false # met un message [draft] en face du titre
 hidemeta: false #si true, cache les meta info (date, tmps de lecture, etc)
 disableShare: false #si true, cache les possibilités de partage (Twitter, FB, reddit, etc)
-cover:
-    image: "url" #url de la page de couverture du post
-    alt: "<alt text>"
-    caption: "<text>"
-    relative: false
-    responsiveImages: false
-    linkFullImages: true    
+#cover:
+#    image: "url" #url de la page de couverture du post
+#    alt: "<alt text>"
+#    caption: "<text>"
+#    relative: false
+#    responsiveImages: false
+#    linkFullImages: true    
 comments: false
 ---
 
