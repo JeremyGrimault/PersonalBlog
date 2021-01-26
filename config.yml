@@ -1,4 +1,4 @@
-baseURL: "www.jeremygrimault.com"
+baseURL: "https://www.jeremygrimault.com"
 title: Jeremy Grimault
 paginate: 8
 theme: hugo-PaperMod
