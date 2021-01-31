@@ -6,7 +6,7 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 defaultContentLanguage: fr
 
-# googleAnalytics: UA-123-45
+googleAnalytics: G-S1P331YCKB
 
 minify:
     disableXML: true
